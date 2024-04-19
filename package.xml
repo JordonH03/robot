@@ -3,7 +3,7 @@
 <package format="3">
   <name>robot</name>
   <version>0.1.0</version>
-  <description>TODO: Package description</description>
+  <description>A tutorial project to practice programming with Docker and ROS2</description>
   <maintainer email="jordonhong03@gmail.com">Jordon Hong</maintainer>
   <license>TODO: License declaration</license>
 
